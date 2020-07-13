@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Sarah's Website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div class="header">
+  <h1>HIYA</h1>
+</div>
+
+<div class="about">
+  <h2>My name is Sarah Khan, and I'm currently in my second year of Mechanical Engineering at the University of Toronto.<h2>
+</div?
+
+<div class="navbar">
+  <a href="https://example.com/">Resume</a>
+  <a href="https://example.com/">Projects</a>
+</div>
+
+</body>
+</html>
